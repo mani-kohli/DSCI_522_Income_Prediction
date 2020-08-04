@@ -1,7 +1,7 @@
 #! /usr/bin/env Rscript 
 
 # script_04_create_summary_graph.R 
-# Olivia Lin, Nov 23 2018
+# Olivia Lin, Mani Kohli Nov 23 2018
 
 # This script takes in summary tables and returns graphs for the summary tables.
 # This script should be run under the root folder.
