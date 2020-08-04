@@ -1,7 +1,7 @@
 #! /usr/bin/env python
 
 # script_03_machine_learning.py
-# Olivia Lin, Nov 23 2018
+# Olivia Lin, Mani Kohli Nov 23 2018
 #
 # This script takes in the cleaned version of dataset and returns the summary tables of machile learning for our project.
 # This script should be run under the root folder.
